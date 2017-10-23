@@ -8,3 +8,17 @@
 
 	統計學-李柏堅-第04章 ​隨機變數
 	https://www.youtube.com/watch?v=vPL7H4Wzric&list=PLP1Ynr8cs97uJakFfEPJUduE8pRapPGjb
+	
+	
+---------------------
+機率-排列:https://www.youtube.com/watch?v=5C5tMEHhfR8
+機率-組合:https://www.youtube.com/watch?v=TAyHwYKXwAE
+機率-古典機率:https://www.youtube.com/watch?v=LG0woeJGAcs
+機率-隨機變數:https://www.youtube.com/watch?v=NVBEbN7jpw0
+獨立事件:https://www.youtube.com/watch?v=EvLD9N8a2hY
+互斥事件:https://www.youtube.com/watch?v=KT9TJsn0yYI
+條件機率:https://www.youtube.com/watch?v=HlYU8hhZGHE
+貝氏定理:https://www.youtube.com/watch?v=82XOjPYfNCw
+貝氏定理例題:https://www.youtube.com/watch?v=osn7D8dmSmg
+貝氏估計法:https://www.youtube.com/watch?v=KEw8TILDFDM
+貝氏估計法應用於醫學檢驗:https://www.youtube.com/watch?v=OQREbC2qjgY	
